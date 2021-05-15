@@ -1,9 +1,15 @@
 package udemy.java.eleven;
 
 public class FirstClass {
-	
-	public static void main(String[] args) {
-		System.out.println("Hi Ananda - Java 11");
-	}
 
+	public static void main(String[] args) {
+		Double length = 5.4;
+		Double width = 2.9;
+		Double height = 1.7;
+		
+		Double volume = length*width*height;
+		System.out.println(volume);
+
+		
+	}
 }
