@@ -1,4 +1,4 @@
-package udemy.java.eleven;
+package udemy.java.eleven.variable;
 
 public class FirstClass {
 
