@@ -4,3 +4,6 @@ target/classes/META-INF/MANIFEST.MF
 *.class
 *.class
 *.class
+*.MF
+*.class
+*.class
