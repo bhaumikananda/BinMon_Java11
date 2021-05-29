@@ -24,6 +24,7 @@ public class TempConvrtStrngFrmat {
 		}else {
 			System.out.println("Invalid Temperature scale received as input "+ inputTempScale);
 		}
+		System.out.println("Thank you!! Please rate..");
 
 	}
 	
