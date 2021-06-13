@@ -1,4 +1,4 @@
-package udemy.java.eleven.looping;
+package udemy.java.eleven.loopsNcondition;
 
 public class FirstWhileLoop {
 	
